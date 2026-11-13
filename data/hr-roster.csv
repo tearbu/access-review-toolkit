@@ -1,0 +1,13 @@
+employee,department,manager,status,termination_date
+Alicia Gomez,Finance,Dana Whitfield,Active,
+Marcus Webb,IT,Raj Patel,Active,
+Danielle Roy,Human Resources,Susan Meyer,Active,
+Kevin Sato,Engineering,Peter Lindqvist,Active,
+Omar Haddad,Operations,Dana Whitfield,Active,
+Sofia Marino,Sales,Chris Delgado,Active,
+Tom Becker,Finance,Dana Whitfield,Terminated,2026-08-14
+Nina Petrova,Support,Susan Meyer,Terminated,2026-09-30
+Grace Liu,Engineering,Peter Lindqvist,Active,
+Ben Carter,IT,Raj Patel,Active,
+Laura Bianchi,Legal,Susan Meyer,Active,
+Fatima Diallo,Finance,Dana Whitfield,Active,

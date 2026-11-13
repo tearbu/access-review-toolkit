@@ -1,0 +1,19 @@
+application,username,employee,role,last_login
+FinanceApp,agomez,Alicia Gomez,Payments Create,2026-11-10
+FinanceApp,fdiallo,Fatima Diallo,Payments Create,2026-11-09
+FinanceApp,fdiallo,Fatima Diallo,Payments Approve,2026-11-08
+FinanceApp,tbecker,Tom Becker,Payments Approve,2026-08-20
+FinanceApp,jellis,Jordan Ellis,Expense Reports,2026-11-05
+FinanceApp,ksato,Kevin Sato,Vendor Payments View,2026-06-20
+HRSystem,droy,Danielle Roy,HR Admin,2026-11-11
+HRSystem,lbianchi,Laura Bianchi,Benefits Viewer,2026-07-30
+HRSystem,smarino,Sofia Marino,Employee Self Service,2026-11-06
+HRSystem,gliu,Grace Liu,Employee Self Service,2026-11-02
+HRSystem,ohaddad,Omar Haddad,Timekeeping Approver,2026-10-28
+VPN,mwebb,Marcus Webb,VPN Admin,2026-11-11
+VPN,bcarter,Ben Carter,VPN User,2026-11-09
+VPN,ohaddad,Omar Haddad,VPN User,2026-11-04
+VPN,ksato,Kevin Sato,VPN User,2026-11-01
+VPN,gliu,Grace Liu,VPN User,2026-08-01
+VPN,smarino,Sofia Marino,VPN User,2026-11-10
+VPN,agomez,Alicia Gomez,VPN User,2026-11-07
